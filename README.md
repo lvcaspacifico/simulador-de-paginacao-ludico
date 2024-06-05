@@ -10,4 +10,4 @@ Se for usar, favor me creditar.
 
 ## Contribuição de algoritmos
 
-@joaodealencar criou as listas de algoritmos das rotas para os botões
+[@j-alencar](https://github.com/j-alencar) criou as listas de algoritmos das rotas para os botões
